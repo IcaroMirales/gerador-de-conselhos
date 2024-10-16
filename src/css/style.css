@@ -58,6 +58,12 @@
     }
 }
 
+@media (max-width: 470px) {
+    .card {
+        width: 25em;
+    }
+}
+
 @media (max-width: 375px) {
     .card {
         width: 22em;
